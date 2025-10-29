@@ -10,13 +10,13 @@ Plugin is intended as a baseline for projects that follow [Microsoft Security De
 ## Installation
 
 ```sh
-npm install microsoft/eslint-plugin-sdl
+npm install @microsoft/eslint-plugin-sdl
 ```
 
 or
 
 ```sh
-yarn add microsoft/eslint-plugin-sdl
+yarn add @microsoft/eslint-plugin-sdl
 ```
 
 ## Configs
